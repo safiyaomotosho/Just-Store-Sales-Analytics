@@ -50,6 +50,6 @@ View the interactive Tableau dashboard here:
 
 ## Project Files
 - `Just-Store-Sales-Analytics.twbx` . Tableau packaged workbook
-- `Just-Store-Sales_Dashboard.png` . Executive dashboard preview
+- `Just-Store-Sales-Dashboard.png` . Executive dashboard preview
 - `Just-Store-Table-View.png` . Detailed table view
 
