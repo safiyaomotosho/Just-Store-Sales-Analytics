@@ -49,7 +49,7 @@ View the interactive Tableau dashboard here:
 [View Dashboard on Tableau Public](https://public.tableau.com/views/JustStoreSalesAnalyticsDashboard/ExecutiveView?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Files
-- `Just - Store - Sales - Analytics.twbx` . Tableau packaged workbook
+- `Just-Store-Sales-Analytics.twbx` . Tableau packaged workbook
 - `Just-Store-Sales_Dashboard.png` . Executive dashboard preview
 - `Just-Store-Table-View.png` . Detailed table view
 
