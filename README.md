@@ -36,7 +36,7 @@ The dashboard analyzes:
 
 The table view provides transaction-level details, including customers, order IDs, order counts, profit, and sales.
 
-## Tools Used
+## Tools & Skills
 - Tableau Public
 - Data Visualization
 - Dashboard Design
